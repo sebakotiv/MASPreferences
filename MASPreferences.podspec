@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.platform              = :osx, '10.10'
+  s.platform              = :osx, '10.13'
   s.name                  = "MASPreferences"
-  s.version               = "1.4.1"
+  s.version               = "1.4.2"
   s.summary               = "Modern implementation of the Preferences window for OS X apps, used in TextMate, GitBox and Mou."
   s.homepage              = "https://github.com/shpakovski/MASPreferences"
   s.license               = { :type => 'BSD', :file => 'LICENSE.md' }
